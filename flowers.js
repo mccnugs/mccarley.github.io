@@ -17,7 +17,7 @@ document.addEventListener("DOMContentLoaded", function () {
     inset:0;
     overflow:visible;
     pointer-events:none;
-    z-index:0;
+    z-index:-1;
   }
 
   .bouncing-logo{
